@@ -1,10 +1,14 @@
 # Darkcode95
 I am not familiar with this at all.
 
-#introduction to the project
+# introduction to the project
+
 _hallo world_
+
 __hallo world__
+
 [darkdna](http://darkdna.gr/)
+
 * non coding rna
  * small rnas
  
