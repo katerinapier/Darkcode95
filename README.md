@@ -3,9 +3,9 @@ I am not familiar with this at all.
 
 # introduction to the project
 
-_hallo world_
+_hello world_
 
-__hallo world__
+__hello world__
 
 [darkdna](http://darkdna.gr/)
 
